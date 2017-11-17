@@ -7,7 +7,7 @@ public class Main {
 		System.out.println(emp);
 		System.out.println(emp2);
 		
-		Manager manager=new Manager("vinodhere","Insurance");
+		Manager manager=new Manager("vinodherekumar","Insurance");
 		System.out.println(manager);
 	}
 
